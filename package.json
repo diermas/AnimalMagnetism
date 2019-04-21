@@ -1,0 +1,15 @@
+{
+  "name": "animalmagnetism",
+  "version": "1.0.0",
+  "description": "attract matching animals to grow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
